@@ -1,0 +1,31 @@
+body {
+  font-family: Arial;
+  width: 220px;
+  text-align: center;
+}
+
+#status {
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+.safe {
+  color: green;
+}
+
+.danger {
+  color: red;
+}
+
+button {
+  padding: 8px;
+  background: #d9534f;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#details {
+  font-size: 12px;
+  margin-top: 8px;
+}
